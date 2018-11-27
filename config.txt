@@ -1,4 +1,4 @@
-﻿token=NTE2OTAxNzU4ODMyNzM4MzA0.Dt6hqQ.Ve41ZffF30fBHoPmgnaY2kSo1Bo
+﻿token=NTE2OTA5NTMyOTEyMjg3NzQ1.Dt6uhg.tS-iBgIa2h9g6LZzrh9GARts0KY
 owner=318705077734998017
 prefix= $
 game= !$help
